@@ -1,0 +1,3 @@
+{"event_id": "cc063ba5-d5d9-46be-8c4b-9c965e208330", "visitor_id": "VIS_1", "event_type": "ZONE_ENTER", "zone": "RIGHT_SHELF", "timestamp": "2026-05-30T08:28:27.530462"}
+{"event_id": "5e77994f-e16b-44ac-9373-20ae1c14313d", "visitor_id": "VIS_2", "event_type": "ZONE_ENTER", "zone": "CENTER_SHELF", "timestamp": "2026-05-30T08:28:27.533769"}
+{"event_id": "e4f8879e-0d72-46cc-b090-de28845e28b8", "visitor_id": "VIS_3", "event_type": "ZONE_ENTER", "zone": "CENTER_SHELF", "timestamp": "2026-05-30T08:28:34.833346"}
